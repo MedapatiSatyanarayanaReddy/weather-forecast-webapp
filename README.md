@@ -17,7 +17,7 @@ This project is a **Weather Forecast Webpage** that provides real-time weather u
 ## 🚀 Installation and Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MedapatiSatyanarayanareddy/weather-forecast.git
+   git clone https://github.com/MedapatiSatyanarayanareddy/weather-forecast-webapp.git
 ## cd weather-forecast
 - open index.html  # For macOS
 - start index.html # For Windows
